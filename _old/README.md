@@ -1,5 +1,7 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
+Used [`this repo to apply next to GH pages`](https://github.com/gregrickaby/nextjs-github-pages)
+
 ## Getting Started
 
 First, run the development server:
