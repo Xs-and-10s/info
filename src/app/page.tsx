@@ -15,7 +15,7 @@ export default function Home() {
         <h1 className="self-center text-4xl font-[family-name:var(--font-geist-mono)]">
           Alan Manley
         </h1>
-        <h2 className="self-center text-2xl">Fullstack / Frontend Web Apps</h2>
+        <h2 className="self-center text-2xl">Fullstack/Frontend WebApps</h2>
         <ul className="list-inside list-item text-sm/6 text-left font-[family-name:var(--font-geist-mono)]">
           <li className="mb-2 tracking-[-.01em]">
             13 years of experience in JavaScript.
@@ -73,7 +73,7 @@ export default function Home() {
             rel="noopener noreferrer"
           >
             <Image
-              className="dark:invert mr-2.5"
+              className="mr-2.5"
               src="/info/file.svg"
               alt="Resume icon"
               width={20}
