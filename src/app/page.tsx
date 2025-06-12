@@ -16,9 +16,9 @@ export default function Home() {
           Alan Manley
         </h1>
         <h2 className="self-center text-2xl">Fullstack / Frontend Web Apps</h2>
-        <ul className="list-inside list-item text-sm/6 text-center sm:text-left font-[family-name:var(--font-geist-mono)]">
+        <ul className="list-inside list-item text-sm/6 text-left font-[family-name:var(--font-geist-mono)]">
           <li className="mb-2 tracking-[-.01em]">
-            13 years of experience in JS, HTML, & CSS.
+            13 years of experience in JavaScript.
             {/* Get started by editing{" "} */}
             {/* <code className="bg-black/[.05] dark:bg-white/[.06] px-1 py-0.5 rounded font-[family-name:var(--font-geist-mono)] font-semibold">
               src/app/page.tsx
@@ -82,12 +82,10 @@ export default function Home() {
             Resume
           </a>
         </div>
-        <ul className="list-inside list-item text-sm/6 text-center sm:text-left font-[family-name:var(--font-geist-mono)]">
-          <li className="my-2 tracking-[-.01em]">
-            Contact me if you want to work together.
-          </li>
+        <ul className="list-inside list-item text-sm/6 text-left font-[family-name:var(--font-geist-mono)]">
+          <li className="my-2 tracking-[-.01em]">Let&apos;s connect.</li>
           <li className="tracking-[-.01em]">
-            ... especially if you&apos;re using one of:
+            ...especially if you&apos;re using one of:
             <ul>
               <li>&gt; Datastar</li>
               <li>&gt; Gleam</li>
