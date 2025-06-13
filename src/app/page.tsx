@@ -86,6 +86,7 @@ export default function Home() {
             ...especially if you&apos;re using one of:
             <ul>
               <li>&gt; Datastar</li>
+              <li>&gt; React | Next.js</li>
               <li>&gt; Gleam</li>
               <li>&gt; Elixir</li>
               <li>&gt; Go</li>
