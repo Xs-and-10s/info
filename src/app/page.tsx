@@ -13,7 +13,7 @@ export default function Home() {
           priority
         />
         <h1 className="self-center text-4xl font-[family-name:var(--font-geist-mono)]">
-          Alan Manley
+          Mark Manley
         </h1>
         <h2 className="self-center text-2xl">Fullstack/Frontend WebApps</h2>
         <ul className="list-inside list-item text-sm/6 text-left font-[family-name:var(--font-geist-mono)]">
@@ -66,7 +66,7 @@ export default function Home() {
           </a>
           <a
             className="rounded-full border border-solid border-black/[.08] dark:border-white/[.145] transition-colors flex items-center justify-center hover:bg-[#f2f2f2] dark:hover:bg-[#1a1a1a] hover:border-transparent font-medium text-sm sm:text-base h-10 sm:h-12 px-4 sm:px-5 w-full sm:w-auto md:w-[158px]"
-            href="https://alan-manley.tiiny.site"
+            href="https://mark-manley.tiiny.site"
             target="_blank"
             rel="noopener noreferrer"
           >
@@ -85,10 +85,10 @@ export default function Home() {
           <li className="tracking-[-.01em]">
             ...especially if you&apos;re using one of:
             <ul>
-              <li>&gt; Datastar</li>
               <li>&gt; React | Next.js</li>
-              <li>&gt; Gleam</li>
+              <li>&gt; Datastar</li>
               <li>&gt; Elixir</li>
+              <li>&gt; Gleam</li>
               <li>&gt; Go</li>
               <li>
                 &gt; Clojure (<i>or other lisp</i>)
